@@ -1,0 +1,22 @@
+{
+  "name": "recolorz",
+    "homepage": "https://github.com/abo/recolorz",
+    "authors": [
+      "abo <huangshengbo@gmail.com>"
+      ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+      "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+      ],
+    "dependencies": {
+      "bootstrap": "~3.3.2",
+      "color-thief": "latest",
+      "jquery": "latest",
+      "underscore": "latest"
+    }
+}
