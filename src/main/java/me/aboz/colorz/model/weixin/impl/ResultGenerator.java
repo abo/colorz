@@ -1,8 +1,3 @@
-/**
- * Title:		TRS SMAS
- * Copyright:	Copyright(c) 2011-2013,TRS. All rights reserved.
- * Company:		北京拓尔思信息技术股份有限公司(www.trs.com.cn)
- */
 package me.aboz.colorz.model.weixin.impl;
 
 import java.util.ArrayList;
